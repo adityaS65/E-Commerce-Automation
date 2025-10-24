@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-25T01:47:35 IST" name="Surefire suite" finished-at="2025-10-25T01:47:38 IST" duration-ms="3157">
+    <groups>
+    </groups>
+    <test started-at="2025-10-25T01:47:35 IST" name="Surefire test" finished-at="2025-10-25T01:47:38 IST" duration-ms="3157">
+      <class name="com.ecommerce.EcommerceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.EcommerceTest@105fece7]" started-at="2025-10-25T01:47:35 IST" name="setup" finished-at="2025-10-25T01:47:36 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLogin()[pri:1, instance:com.ecommerce.EcommerceTest@105fece7]" started-at="2025-10-25T01:47:36 IST" name="validLogin" finished-at="2025-10-25T01:47:37 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="invalidLogin()[pri:2, instance:com.ecommerce.EcommerceTest@105fece7]" started-at="2025-10-25T01:47:37 IST" name="invalidLogin" finished-at="2025-10-25T01:47:38 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method signature="addToCartTest()[pri:3, instance:com.ecommerce.EcommerceTest@105fece7]" started-at="2025-10-25T01:47:38 IST" name="addToCartTest" finished-at="2025-10-25T01:47:38 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.EcommerceTest@105fece7]" started-at="2025-10-25T01:47:38 IST" name="teardown" finished-at="2025-10-25T01:47:38 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.EcommerceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
